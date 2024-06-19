@@ -1,4 +1,3 @@
-import { countDown } from './timer';
 
 export default{
   minutes: 25,
